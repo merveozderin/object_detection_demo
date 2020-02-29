@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>indir (5).jpg</filename>
+	<path>C:\Users\merve\Downloads\data\images\test\indir (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>169</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kedi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>3</ymin>
+			<xmax>245</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

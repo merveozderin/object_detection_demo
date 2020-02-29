@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>indir (9).jpg</filename>
+	<path>C:\Users\merve\Downloads\data\images\train\indir (9).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>169</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kedi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>2</ymin>
+			<xmax>272</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>
